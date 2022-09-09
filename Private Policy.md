@@ -1,4 +1,4 @@
-**Privacy Policy **
+**Privacy Policy**
 
 Last updated: 09/09/2022 
 
