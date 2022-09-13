@@ -4,4 +4,4 @@ We are building mobile versions for Full Length SAT MATH tests with the LT6280â€
 
 **App Store at https://apps.apple.com/app/sat-math/id1643503044** 
 
-**Play Store at https://tinyurl.com/4b447ne6**
+
